@@ -6,7 +6,7 @@ public class Driver {
         Shape shape1 = factory.getShape("circle");
         shape1.draw();
         Shape shape2 = factory.getShape("square");
-        shape1.draw();
+        shape2.draw();
         Shape shape3 = factory.getShape("rectangle");
         shape3.draw();
 
